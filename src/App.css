@@ -1,0 +1,49 @@
+/* Start the TIC TAC TOE CSS */
+.board-container {
+  display: flex;
+  padding: 0px;
+  justify-content: center;
+  align-items: center;
+  border: 6px solid rgb(250, 19, 77);
+  width: 350px;
+  height: 350px;
+  background-color: hsl(41, 91%, 91%);
+  border-radius: 10px;
+}
+
+.square-container {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+  background-color: aliceblue;
+  cursor: pointer;
+}
+.board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#winner-box > h2 {
+  font-size: 25px;
+  display: block;
+  margin-bottom: 30px;
+}
+.resetButton {
+  width: 200px;
+  padding: 10px;
+  font-size: 24px;
+  background-color: rgba(241, 8, 8, 0.32);
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.resetButton:hover {
+  background-color: hsla(0, 94%, 70%);
+}
