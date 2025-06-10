@@ -1,6 +1,6 @@
 # React + Vite
 
-Deployed Here : https://vercel.com/wasim2451s-projects/tic-tac-toe/FTTA1nw6nuUP7f6GRRfykMmLVmkw
+Deployed Here : https://tic-tac-m5bsraals-wasim2451s-projects.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
